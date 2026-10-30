@@ -16,11 +16,9 @@
 
 
 ## Create a private NAT Network for the cybersecurity lab.
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Create-a-private-NAT-Network-for-the-cybersecurity-lab.png)
 
 
-
-
-Create a private NAT Network for the cybersecurity lab.
 
 
 
