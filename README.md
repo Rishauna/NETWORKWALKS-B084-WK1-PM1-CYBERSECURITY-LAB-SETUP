@@ -10,6 +10,9 @@ Install and configure VirtualBox.
 
 
 Install/import Kali Linux as a virtual machine.
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Install-import-Kali-Linux-as-a-virtual-machine.png)
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Install-import-Kali-Linux-as-a-virtual-machine1.png)
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Install-import-Kali-Linux-as-a-virtual-machine2.png)
 
 
 Create a private NAT Network for the cybersecurity lab.
