@@ -21,7 +21,10 @@
 ---
 ## Configure the Kali Linux Network
 
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Configure-the-Kali-Linux-Network.png)
+Configure-the-Kali-Linux-Network.png
 
+---
 
 
 
