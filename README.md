@@ -153,3 +153,17 @@ Further troubleshooting is required to confirm the cause and resolution of the `
 This experience reinforced the importance of checking virtual machine resources, network adapter configurations, IP addressing, and routing when setting up and troubleshooting a Kali Linux environment.
 
 
+
+## 📌 Security and Ethical Considerations
+
+This environment is intended for authorized cybersecurity learning and testing.
+
+Cybersecurity tools should only be used against systems and networks for which permission has been granted.
+
+## 🖋️ ****Author****
+
+Rishauna Gunning     
+
+Cybersecurity Trainee B084
+
+https://www.linkedin.com/in/rishauna-gunning-876ab9109/
